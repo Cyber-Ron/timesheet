@@ -1,4 +1,3 @@
 # timesheet
 
-Ronaldrich
-Male
+Timesheet
