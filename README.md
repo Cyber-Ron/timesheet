@@ -1,4 +1,2 @@
 # timesheet
-Ronaldrich
-Tuguegarao
-June 25
+This is a timesheet
